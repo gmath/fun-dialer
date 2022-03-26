@@ -18,3 +18,5 @@ docker run -d -p80:80 fun-dialer
 ```
 
 Then put `localhost` into your browser and that should do it.
+
+![fun-dialer](https://user-images.githubusercontent.com/5093063/160253799-8f0d68a5-4ec2-493f-9cd8-d9a9badd5437.png)
